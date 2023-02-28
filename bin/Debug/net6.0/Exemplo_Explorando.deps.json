@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exemplo_Explorando/1.0.0": {
+        "runtime": {
+          "Exemplo_Explorando.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exemplo_Explorando/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

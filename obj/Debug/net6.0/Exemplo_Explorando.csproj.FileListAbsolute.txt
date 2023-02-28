@@ -1,0 +1,15 @@
+C:\ProjetosJhony\Exemplo_Explorando\obj\Debug\net6.0\Exemplo_Explorando.csproj.AssemblyReference.cache
+C:\ProjetosJhony\Exemplo_Explorando\obj\Debug\net6.0\Exemplo_Explorando.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosJhony\Exemplo_Explorando\obj\Debug\net6.0\Exemplo_Explorando.AssemblyInfoInputs.cache
+C:\ProjetosJhony\Exemplo_Explorando\obj\Debug\net6.0\Exemplo_Explorando.AssemblyInfo.cs
+C:\ProjetosJhony\Exemplo_Explorando\obj\Debug\net6.0\Exemplo_Explorando.csproj.CoreCompileInputs.cache
+C:\ProjetosJhony\Exemplo_Explorando\bin\Debug\net6.0\Exemplo_Explorando.exe
+C:\ProjetosJhony\Exemplo_Explorando\bin\Debug\net6.0\Exemplo_Explorando.deps.json
+C:\ProjetosJhony\Exemplo_Explorando\bin\Debug\net6.0\Exemplo_Explorando.runtimeconfig.json
+C:\ProjetosJhony\Exemplo_Explorando\bin\Debug\net6.0\Exemplo_Explorando.dll
+C:\ProjetosJhony\Exemplo_Explorando\bin\Debug\net6.0\Exemplo_Explorando.pdb
+C:\ProjetosJhony\Exemplo_Explorando\obj\Debug\net6.0\Exemplo_Explorando.dll
+C:\ProjetosJhony\Exemplo_Explorando\obj\Debug\net6.0\refint\Exemplo_Explorando.dll
+C:\ProjetosJhony\Exemplo_Explorando\obj\Debug\net6.0\Exemplo_Explorando.pdb
+C:\ProjetosJhony\Exemplo_Explorando\obj\Debug\net6.0\Exemplo_Explorando.genruntimeconfig.cache
+C:\ProjetosJhony\Exemplo_Explorando\obj\Debug\net6.0\ref\Exemplo_Explorando.dll
